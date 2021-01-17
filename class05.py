@@ -139,7 +139,7 @@ class UserModel(object):
 m = UserModel()
 m.name = 'baisbjjjjjjjjjjjjjjjj'
 m.pwd = 'iufddddddddiuwehfiuwehuiwehew'
-m.age = 18
+m.age = '88'
 print(m.name)
 print(m.pwd)
 print(m.age)

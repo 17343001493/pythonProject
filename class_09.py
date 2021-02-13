@@ -84,3 +84,8 @@ if __name__ == '__main__':
     p4 = Process(target=work4,args=(q,))
     p3.start()
     p4.start()
+
+
+
+
+
